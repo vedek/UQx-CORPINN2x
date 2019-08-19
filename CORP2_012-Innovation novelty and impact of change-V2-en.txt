@@ -1,0 +1,105 @@
+[SAREL GRONUM] All innovations are not created equal.
+This does not mean that one type of innovation is more important than another, but rather
+that innovation types have varying degrees of potential impact on the firm, market and
+economy.
+Newness is intrinsic to the definition of innovation.
+Therefore some innovation typologies use novelty or the degree of familiarity to existing knowledge,
+resources and practices to distinguish between different types of innovation.
+The degree of novelty also depends on the level of analyses that are applied.
+While a new process innovation like an automated warehousing system may be new for a firm,
+it is not necessarily new at the industry level where it may already have been applied
+by other firms.
+The level of impact or the perceived extent of the change caused by an innovation within
+the market or industry is also an important strategic consideration.
+While some innovations only impact the focal firm’s performance, others have the ability
+to create much broader impact, by changing the competitive landscape or even the structure
+of the broader economy.
+Tidd, Bessant and Pavitt’s classification of innovation applied these dimensions and
+identified three types of innovation incremental, radical and transformational.
+First, at lower levels of potential impact, incremental innovation represents continued
+improvement, refinement, modification and extension of existing products, services and
+processes.
+Examples are Gillette who continually develops new derivatives of their shaving products,
+banks that introduce cardless cash withdrawal to automatic teller machine services, or Nissan
+who continually improves their production automation.
+Continuous incremental innovation sustains competitiveness through its cumulative positive
+impact on sales growth and production efficiency.
+It is therefore no surprise that incremental innovations are the most common form of innovation
+and most likely originate from market pull forces caused by changing customer needs.
+The second type, Radical Innovations are discontinuous events that introduces an entirely new core
+technology, which significantly alters the consumption patterns in a market.
+Radical innovations provide superior benefits to that offered by existing solutions.
+Recent examples include the use of drone technologies in military applications, Salesforce’s customer
+relationship management service which provides business customers with the ability to gather
+and track interactions with their customers, streamline processes, and improve profitability.
+And Toyota’s Just-In-Time operations system which revolutionized logistics management
+by integrating suppliers with the production process, eliminating stock requirements and
+wastage.
+Although incremental innovations are important for sustaining competitiveness, evidence suggests
+that radical innovators grow faster than other firms by dominating competitors or creating
+new markets that did not exist before.
+Radical innovations are much rarer than incremental innovations because they require technology
+push or the development of breakthrough technologies or novel combinations of existing technologies.
+While radical innovations represents king tide wave changes to the competitive landscape
+of an industry, the third innovation type, transformational innovations are tsunamis
+that have the ability to change techno-economic paradigms.
+Transformational innovations are technological revolutions that affects structural changes
+in the entire economy.
+Imagine for example how technologies like the self-driving electric vehicle, cloud computing
+and advanced artificial intelligence would impact virtually every sector of the economy.
+In addition to these three impact and novelty dimension classifications, other popular innovation
+types include modular, architectural and platform innovation types.
+A distinction is also made between competence-enhancing and competence-destroying radical innovations.
+Modular or component innovation is when you change an element of a product without changing
+its configuration.
+Early versions of electric vehicles are a good example in that the petrol engine was
+replaced by an electric motor without major changes to the configuration of the vehicle’s
+architecture.
+This is the most prevalent type of incremental innovation.
+Tushman and Anderson distinguish between competence-enhancing and competence-destroying radical innovations.
+Competence-enhancing radical innovations represent massive improvements to older technologies,
+which build on the existing know-how that does not render the skills required to master
+the old technology obsolete.
+The migration form desktop computers to mobile computing devices is an example.
+Competence-destroying radical innovations are based on fundamentally different skills
+and knowledge that applied to the old technology, as was the case when steam locomotives were
+replaced by diesel locomotives.
+Competence-destroying innovations are normally introduced by firms from outside the industry
+whereas existing firms focus more on incremental and competence-enhancing innovations.
+Firms can also extend their product portfolio by combining existing technologies to create
+new products or services.
+This is referred to as architectural or design innovation as it changes the architecture
+of a product or the way components are linked together without changing its components and
+normally serve new markets or applications.
+Apple’s iPhone and iPad can be considered as examples of architectural innovations.
+Architectural innovations should not be confused with platform innovations that represents
+innovations used across a number of different products or services with minimal adjustments
+required.
+Firms use platforms to leverage the benefits of their investments in generating innovations.
+Examples of platform technologies at the firm level includes Volkswagen’s use of one body
+manufacturing line to produce several vehicle models or Bosch’s use of a single standardised
+electric motor in a number of their hand-tool ranges.
+Gaining broad industry adoption of your technology platform is a major growth driver for firms
+today.
+It is therefore no surprise that the search for market platform innovations are high on
+the agenda for developers at Google’s “moonshot factory” called “X”.
+As such they developed Google Glass in the hope that it would become a radical innovation
+within the rapidly growing, wearable technology market.
+Google Glass failed to generate significant consumer adoption, causing them to relaunch
+the product as the “Glass Enterprise Edition”.
+This new product edition represents a wearable platform product that targets businesses which
+use it in various processes and production applications, ranging from jet engines to
+precision surgery.
+The value of platform innovations are their ability to generate network effects.
+Network effects imply that user value increases with adoption by every additional user.
+For example, the more business that use the Glass Enterprise Edition, the more software
+developers would be enticed to write new applications specific for use on this platform which enhances
+platform user value.
+Platforms also provide access to additional revenue streams within the multi-sided markets
+they create.
+To illustrate, in addition to hardware sales the Glass Enterprise Edition allows Google
+to also make money from App sales.
+Not all innovations are created equal because the extent of their potential impact varies.
+Knowledge of the different innovation types represents options for further exploration.
+Winning firms build healthy balanced innovation portfolios across the dimensions of the innovation
+space.

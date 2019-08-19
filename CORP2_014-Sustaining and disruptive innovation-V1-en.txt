@@ -1,0 +1,98 @@
+[SAREL GRONUM] Ever wondered how it is possible for well-managed,
+successful businesses who dominated their industries, like Nokia and Kodak, to be toppled
+by new entrants to the market?
+Or why vehicle manufacturers like Daimler Benz are viewing software companies like Google,
+not other car manufacturers, as their main future competitors?
+It is because driverless vehicle technologies are changing the rules of the game for the
+motor industry.
+According to PwC surveys, 75% of chief executives said that technological advancements will
+significantly change or completely reshape competition within the next five years.
+To explain this phenomenon, Clay Christiansen developed the theory of disruption and coined
+the term “disruptive innovation” to refer to a process that is similar to Schumpeter’s
+gales of creative destruction.
+Since then, disruptive innovation has become a buzz phrase which is often wrongly interpreted,
+as is the case with Uber in the taxi industry.
+It is therefore important to clarify how the disruptive innovation process works.
+It is a process where a company, usually small with fewer resources, is able to successfully
+challenge established incumbent businesses as was the case with Amazon and Netflix.
+Christensen identified 2 forms of disruptive innovation: low-end and new-market disruptive
+innovation.
+The low-end disruptive innovation process is described as follows:
+Dominant businesses, usually focus on sustaining innovation aimed at increasing the perceived
+value of existing products for their most demanding and profitable customer segments.
+In doing so they often overshoot the performance requirements of the mass-market and ignore
+low-end users.
+New disruptive entrants establish a foothold in the market by targeting low-end, less profitable
+users in providing them with a “good enough” product.
+The products are initially perceived by the mass market to be inferior to the incumbent’s
+products.
+However, disruptors improve product performance over time.
+When the entrant’s innovation reaches a performance level that meets the needs of
+the mass market it is adopted by the more profitable upper segments of the market and
+thus disrupt the incumbent.
+In contrast, new-market disruption occurs when a disruptor creates or capitalises on
+a new market that did not exist before.
+To illustrate new-market disruption, let’s look at Intel processors.
+Intel has dominated the microprocessor market for desktops, notebooks and servers from the
+1980’s by continually improving their microprocessors.
+With their “Intel Inside” slogan they seemed unstoppable.
+They continually increased the memory and processing speeds of their processors to accommodate
+more sophisticated applications, referred to as sustaining innovation.
+However, in the early 1990’s Intel made several mistakes that jeopardised their dominance
+in the market.
+While Intel was incrementally improving their processors for use in computers, a small British
+company, called ARM Holdings, partnered with Apple in 1992 to develop a processor for the
+Apple Newton personal digital assistant.
+The personal digital assistant represented an early technology in what would with time
+become the mobile device market.
+In contrast, Intel declined the opportunity to develop a microchip for the Apple iPhone.
+Instead they continued to focus their efforts on developing technology for the mainstream
+computer market, which had vastly different requirements to mobile devices.
+Intel's power hungry processors were unsuitable for mobile devices which require low cost
+processors that minimise power consumption and heat dissipation.
+Thus, when the market shifted away from personal computers to mobile devices, ARM was well
+positioned to capitalize on this shift.
+After securing a foothold in the new mobile device market, ARM gradually improved the
+functionality of their processors.
+So much so that today ARM-based processors are likely to break Intel's virtual monopoly
+in the highly-profitable high-end market for processors used in data centres and cloud
+servers.
+ARM therefore moved from a new market space, serving non-users of existing technologies,
+into the established market to disrupt the incumbent, Intel.
+In both low-end and new-market disruptions, incumbents are said to be incapable to react
+because they are unable to adapt to the disruptive innovator’s business model innovation that
+is changing the rules of the game.
+Not only did ARM innovate their technology, they also adopted a completely different business
+model and as a result innovated by changing the dominant logic of how business is done
+in the industry.
+Instead of self-manufacturing processors like their competitors, ARM developed the processor
+technology which it then licensed to other companies to use as the foundation of the
+products they were manufacturing.
+By adopting a business model based on licensing Intellectual Property, ARM was able to focus
+its resources into building innovation capability instead of production facilities.
+Before the launch of the iPhone, Intel also underestimated smartphone growth that was
+a 100 times higher than anyone thought at the time.
+The profit margin for mobile devices was substantially lower than Intel’s lucrative established
+market.
+Rather than diverting resources to develop microprocessors for this new market, Intel
+continued to focus their attention to develop better performing chips for their mass and
+higher-end customers.
+Incumbents are therefore normally unwilling to foster new innovations that may cannibalise
+their existing investments.
+They therefore focus on short to medium term financial goals instead of building capacity
+that would allow them to play in future markets.
+Today ARM dominates the smartphone and tablet processor markets.
+ARM’s processor architecture allows them to deliver low-cost processors built to perform
+specific functions.
+These are perfectly suited to the fast growing smart-device markets for vehicles, communication
+and home applications.
+Intel may be a classic example of the Icarus paradox; their successful original business
+model became a liability, similar to Compaq, Xerox and Kodak.
+Intel is however slowly catching up and has taken a long time to adapt their business
+model in line with the new dominant logic of the industry; to produce and sell lots
+of inexpensive chips for specific applications.
+The Business Innovation literature is making valuable contributions to the theory of disruptive
+innovation because the fundamental challenge of disruptive technologies is a business model
+problem, not a technology problem.
+To disrupt or defend against disruption depends on your ability to innovate and pivot your
+business model.
